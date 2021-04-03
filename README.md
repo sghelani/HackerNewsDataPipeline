@@ -1,2 +1,5 @@
 # HackerNewsDataPipeline
-Data Pipeline implemented in Python as a DAG to analyze stories obtained from the Hacker News API
+
+## Description
+* The Data Pipeline was implemented from scratch using the Directed Acyclic Graph data structure.
+* The pipeline extracts, transforms and analyzes stories obtained from the Hacker News API.
